@@ -70,8 +70,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/baloch-sahb-3163641b9//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "(https://twitter.com/YMuhammadAbu1)"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "(https://www.instagram.com/balochsahb12/)"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/YMuhammadAbu1/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/balochsahb12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCRCIrHSXplMI3waYHlqPYQQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
