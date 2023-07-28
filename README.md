@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">BalochCodes</h1>
+<h1 align="center">BalochCodes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">📱 Flutter Fanatic 🌟</h1>
 <h3 align="center">I'm a Flutter Developer from Pakistan.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **BUILDING WEBSITES**
+- 🔭 I’m currently working on **BUILDING APPS WITH FLUTTER**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Flutter .**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
