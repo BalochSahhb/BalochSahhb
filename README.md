@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/BalochSahhb)**
 
-- 📫 How to reach me **mukadddarkasikandarabu@gmail.com**
+- 📫 How to reach me **balochcodes343@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
