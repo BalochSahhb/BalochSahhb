@@ -3,6 +3,8 @@
 <h1 align="center">Muhammad Baloch <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">📱 BalochCodes 🌟</h1>
 <h3 align="center">I'm a Flutter Developer from Pakistan.</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🙋‍♂️ About Me
 
