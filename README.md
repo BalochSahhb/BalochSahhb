@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Muhammad Baloch <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">📱 BalochCodes 🌟</h1>
+<h1 align="center">Shahzain Baloch <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">📱 BalochCodes 🌟</h1>
 <h3 align="center">I'm a Flutter Developer from Pakistan.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BalochSahhb)](https://github.com/ryo-ma/github-profile-trophy)
