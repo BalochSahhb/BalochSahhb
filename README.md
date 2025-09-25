@@ -29,14 +29,14 @@
 
 ## 🧩 Featured Projects
 
-- 📱 [FlutterPDF Pro](https://github.com/BalochSahhb/FlutterPDF-Pro)  
-  Modular PDF viewer/editor with analytics, lock, split, and print workflows.
+- 📘 [PDF Reader – PDF View, Read](https://play.google.com/store/apps/details?id=com.nsb.mobilepdf)  
+  Lightweight, fast, and secure PDF reader with intuitive UI.
 
-- 🔐 [SecureWallet](https://github.com/BalochSahhb/SecureWallet)  
-  Multi-account crypto wallet with recovery logic and platform-specific permissions.
+- 🚶 [Pedometer Walk & Track](https://play.google.com/store/apps/details?id=com.nsb.pedometer)  
+  Step counter and fitness tracker with real-time analytics.
 
-- 🎯 [AdMob Master](https://github.com/BalochSahhb/AdMob-Master)  
-  Seamless integration of Native, Interstitial, and App Open ads with premium UI.
+- 🌍 [Hello Translate – Chat & Voice](https://play.google.com/store/apps/details?id=com.nsb.hellotranslate)  
+  Real-time translation app with voice and chat support.
 
 ---
 
@@ -76,13 +76,13 @@
 
 ## 🎥 Watch Me Build
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/3reF5Al3pKk/0.jpg)](https://youtu.be/3reF5Al3pKk?si=GG3lQcAJUWo2pAJb)
 
 ---
 
 ## 📌 Handy Snippets
 
-Check out my [Flutter SliverAppBar gist](https://gist.github.com/BalochSahhb/your-gist-id) for sticky headers with dynamic feedback.
+Check out my [Flutter Snippets Playlist](https://youtube.com/playlist?list=PLMFRcRwzHpWgK_8WY7gDm9wo4mUOv6FL0&si=PoUTXwLSxppCqIo2) for reusable widgets, UI tricks, and platform-specific logic.
 
 ---
 
