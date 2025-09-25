@@ -38,6 +38,15 @@
 - 🌍 [Hello Translate – Chat & Voice](https://play.google.com/store/apps/details?id=com.nsb.hellotranslate)  
   Real-time translation app with voice and chat support.
 
+- 📱 [FlutterPDF Pro](https://github.com/BalochSahhb/FlutterPDF-Pro)  
+  Modular PDF viewer/editor with analytics, lock, split, and print workflows.
+
+- 🔐 [SecureWallet](https://github.com/BalochSahhb/SecureWallet)  
+  Multi-account crypto wallet with recovery logic and platform-specific permissions.
+
+- 🎯 [AdMob Master](https://github.com/BalochSahhb/AdMob-Master)  
+  Seamless integration of Native, Interstitial, and App Open ads with premium UI.
+
 ---
 
 ## 📈 GitHub Activity Graph
@@ -60,7 +69,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BalochSahhb&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+  <img src="https://streak-stats.demolab.com?user=BalochSahhb&theme=black-ice&hide_border=true" />
 </p>
 
 ---
