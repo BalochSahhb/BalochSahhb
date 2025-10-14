@@ -60,8 +60,9 @@
 
 ## 🔥 GitHub Streak
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShahzainBaloch&theme=dark&hide_border=true" alt="ShahzainBaloch's GitHub Stats" />
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShahzainBaloch's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzainBaloch&theme=dark&hide_border=true" />
 </p>
 
 ---
