@@ -8,7 +8,6 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **BUILDING APPS WITH FLUTTER**
-- 🌱 I’m currently learning **Flutter, Firebase, and UI polish**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/ShahzainBaloch)**
 - 📫 How to reach me **balochcodes343@gmail.com**
