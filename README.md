@@ -61,9 +61,8 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=ShahzainBaloch&theme=black-ice&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ShahzainBaloch&theme=black-ice&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## 🎮 Did You Know?
